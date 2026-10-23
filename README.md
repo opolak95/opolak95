@@ -34,10 +34,71 @@ My main product focus: a workspace for conversations, meetings, calls and files,
 
 <br />
 
-| Product & business software | Automation & integrations |
-| :--- | :--- |
-| **Eclipse**<br />A multi-tenant CMS and CRM platform for managing content and business workflows.<br /><sub>React · Node.js · Express · MongoDB</sub> | **AI News Digest**<br />A Python pipeline that collects AI news, uses an LLM to curate and summarise it, and delivers a daily Discord digest.<br /><sub>Python · LLM integration · Discord</sub> |
-| **Client applications**<br />Offline-capable field-service workflows, structured forms and document generation.<br /><sub>TypeScript · React · Offline sync</sub> | **Nook × Jira**<br />An integration for creating Jira issues directly from a Nook conversation, with project and assignee selection.<br /><sub>TypeScript · Jira API · Webhooks</sub> |
+<picture>
+  <source media="(max-width: 640px)" srcset="./eclipse-mobile.svg" />
+  <img src="./eclipse.svg" alt="Eclipse — Content and business workflows in one platform. Features: Content, CRM, Multi-tenancy, Localization" width="100%" />
+</picture>
+
+A multi-tenant CMS and CRM platform for managing content and business workflows.
+
+<sub>React · Node.js · Express · MongoDB</sub>
+
+<br />
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./kronos-mobile.svg" />
+  <img src="./kronos.svg" alt="Kronos — From the first draft to a scheduled LinkedIn post. Features: Drafts, Scheduling, LinkedIn, Audit trail" width="100%" />
+</picture>
+
+An internal LinkedIn publishing platform for drafting, scheduling and publishing posts, with account management and an audit trail.
+
+<sub>Next.js · TypeScript · Supabase · PostgreSQL · Prisma · Trigger.dev</sub>
+
+<br />
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./packetproof-mobile.svg" />
+  <img src="./packetproof.svg" alt="PacketProof — Security answers grounded in evidence. Features: Evidence, Readiness maps, Questionnaires, AI answers" width="100%" />
+</picture>
+
+A B2B platform for collecting security evidence, mapping readiness requirements and preparing evidence-backed answers to customer security questionnaires.
+
+<sub>Next.js · TypeScript · Supabase · PostgreSQL · AI integration</sub>
+
+<br />
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./client-apps-mobile.svg" />
+  <img src="./client-apps.svg" alt="Client applications — Software shaped around real operational work. Features: Offline sync, Forms, Documents, Field service" width="100%" />
+</picture>
+
+Offline-capable field-service workflows, structured forms and document generation, shaped around the way people work in the field.
+
+<sub>TypeScript · React · Offline sync</sub>
+
+<br />
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./ai-news-mobile.svg" />
+  <img src="./ai-news.svg" alt="AI News Digest — From scattered sources to a daily AI briefing. Features: Sources, Curation, Summaries, Discord" width="100%" />
+</picture>
+
+A Python pipeline that gathers AI news, uses an LLM to curate and summarise it, and delivers a daily Discord digest.
+
+<sub>Python · LLM integration · Discord</sub>
+
+<br />
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./nook-jira-mobile.svg" />
+  <img src="./nook-jira.svg" alt="Nook × Jira — Turn a conversation into a Jira issue. Features: Projects, Assignees, Issue creation, Chat commands" width="100%" />
+</picture>
+
+A chat integration for creating Jira issues directly from Nook, including project and assignee selection and a confirmation preview.
+
+<sub>TypeScript · Jira API · Webhooks</sub>
+
+<br />
 
 **For the gaming community:** [Albion Party Builder](https://github.com/opolak95/APB) and Discord tooling for Albion Online.
 

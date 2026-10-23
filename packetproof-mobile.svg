@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" role="img" aria-labelledby="title desc"><title id="title">PacketProof</title><desc id="desc">Security answers grounded in evidence. Evidence, Readiness maps, Questionnaires, AI answers.</desc>
+<rect x="1" y="1" width="598" height="428" rx="16" fill="#142a31" stroke="#385a65"/>
+<path d="M22 43V172" stroke="#83dbe6" stroke-width="3" stroke-linecap="round"/>
+<text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#83dbe6">04 / SECURITY READINESS</text>
+<text x="46" y="113" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.5" fill="#f0f5ff">PacketProof</text>
+<text x="48" y="151" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#cbd4e0">Security answers grounded in evidence.</text>
+<text x="48" y="194" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5" fill="#a8b6c7">B2B SAAS + SECURITY EVIDENCE + AI</text>
+<rect x="44" y="216" width="239" height="79" rx="10" fill="#1b353e" stroke="#385a65"/>
+<g transform="translate(63 237)" fill="none" stroke="#83dbe6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 3L34 9V20Q34 31 20 37Q6 31 6 20V9ZM13 19L18 24L27 14"/></g>
+<text x="117" y="261" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Evidence</text>
+<rect x="299" y="216" width="239" height="79" rx="10" fill="#1b353e" stroke="#385a65"/>
+<g transform="translate(318 237)" fill="none" stroke="#83dbe6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 27L12 31Q5 37 3 28Q2 25 6 21L13 14Q19 8 25 14M24 13L28 9Q35 3 37 12Q38 15 34 19L27 26Q21 32 15 26M13 27L27 13"/></g>
+<text x="372" y="261" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Readiness maps</text>
+<rect x="44" y="312" width="239" height="79" rx="10" fill="#1b353e" stroke="#385a65"/>
+<g transform="translate(63 333)" fill="none" stroke="#83dbe6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5H36V30H22L12 37V30H4ZM14 14Q14 8 21 9Q29 11 22 17L20 21"/><path d="M20 25V25.2"/></g>
+<text x="117" y="357" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Questionnaires</text>
+<rect x="299" y="312" width="239" height="79" rx="10" fill="#1b353e" stroke="#385a65"/>
+<g transform="translate(318 333)" fill="none" stroke="#83dbe6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 4L24 16L36 20L24 24L20 36L16 24L4 20L16 16ZM32 2V10M28 6H36"/></g>
+<text x="372" y="357" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">AI answers</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" role="img" aria-labelledby="title desc"><title id="title">Kronos</title><desc id="desc">From the first draft to a scheduled LinkedIn post. Drafts, Scheduling, LinkedIn, Audit trail.</desc>
+<rect x="1" y="1" width="598" height="428" rx="16" fill="#2a221e" stroke="#665143"/>
+<path d="M22 43V172" stroke="#e8ba91" stroke-width="3" stroke-linecap="round"/>
+<text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#e8ba91">03 / PUBLISHING WORKFLOW</text>
+<text x="46" y="113" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.5" fill="#f0f5ff">Kronos</text>
+<text x="48" y="151" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#cbd4e0">From the first draft to a scheduled LinkedIn post.</text>
+<text x="48" y="194" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5" fill="#a8b6c7">DRAFT + SCHEDULE + PUBLISH</text>
+<rect x="44" y="216" width="239" height="79" rx="10" fill="#392d26" stroke="#665143"/>
+<g transform="translate(63 237)" fill="none" stroke="#e8ba91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 26L5 35L14 33L34 13L27 6ZM23 10L30 17M5 35H35"/></g>
+<text x="117" y="261" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Drafts</text>
+<rect x="299" y="216" width="239" height="79" rx="10" fill="#392d26" stroke="#665143"/>
+<g transform="translate(318 237)" fill="none" stroke="#e8ba91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="7" width="31" height="28" rx="3"/><path d="M4 16H35M12 3V11M27 3V11M12 23H18M23 23H29M12 29H18"/></g>
+<text x="372" y="261" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Scheduling</text>
+<rect x="44" y="312" width="239" height="79" rx="10" fill="#392d26" stroke="#665143"/>
+<g transform="translate(63 333)" fill="none" stroke="#e8ba91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="34" height="34" rx="4"/><circle cx="11" cy="12" r="1.5"/><path d="M11 19V29M20 29V19M20 23Q29 15 29 24V29"/></g>
+<text x="117" y="357" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">LinkedIn</text>
+<rect x="299" y="312" width="239" height="79" rx="10" fill="#392d26" stroke="#665143"/>
+<g transform="translate(318 333)" fill="none" stroke="#e8ba91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="4" width="29" height="32" rx="3"/><path d="M12 20L18 26L28 14"/></g>
+<text x="372" y="357" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Audit trail</text>
+</svg>

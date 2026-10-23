@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="248" viewBox="0 0 1200 248" role="img" aria-labelledby="title desc"><title id="title">Client applications</title><desc id="desc">Software shaped around real operational work. Offline sync, Forms, Documents, Field service.</desc>
+<rect x="1" y="1" width="1198" height="246" rx="16" fill="#192b23" stroke="#426450"/>
+<path d="M22 43V201" stroke="#a1dfb9" stroke-width="3" stroke-linecap="round"/>
+<text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#a1dfb9">05 / CLIENT DEVELOPMENT</text>
+<text x="46" y="113" font-family="Arial,Helvetica,sans-serif" font-size="45" font-weight="700" letter-spacing="-1.5" fill="#f0f5ff">Client applications</text>
+<text x="48" y="151" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#cbd4e0">Software shaped around real operational work.</text>
+<text x="48" y="202" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5" fill="#a8b6c7">FIELD SERVICE + OFFLINE WORKFLOWS</text>
+<rect x="662" y="34" width="239" height="79" rx="10" fill="#243d31" stroke="#426450"/>
+<g transform="translate(681 55)" fill="none" stroke="#a1dfb9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 30H29Q39 30 36 19Q34 13 28 15Q26 2 15 8Q10 10 10 17Q1 15 3 25Q4 30 11 30M15 23L11 27L15 31M24 24L28 20L24 16M11 27H22M28 20H18"/></g>
+<text x="735" y="79" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Offline sync</text>
+<rect x="917" y="34" width="239" height="79" rx="10" fill="#243d31" stroke="#426450"/>
+<g transform="translate(936 55)" fill="none" stroke="#a1dfb9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="30" height="34" rx="3"/><path d="M11 11H14M20 11H29M11 20H14M20 20H29M11 29H14M20 29H29"/></g>
+<text x="990" y="79" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Forms</text>
+<rect x="662" y="130" width="239" height="79" rx="10" fill="#243d31" stroke="#426450"/>
+<g transform="translate(681 151)" fill="none" stroke="#a1dfb9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H23L31 11V35H8ZM23 3V12H31M14 21H25M14 27H23"/></g>
+<text x="735" y="175" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Documents</text>
+<rect x="917" y="130" width="239" height="79" rx="10" fill="#243d31" stroke="#426450"/>
+<g transform="translate(936 151)" fill="none" stroke="#a1dfb9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="10" y="2" width="22" height="36" rx="4"/><path d="M17 7H25M19 32H23"/></g>
+<text x="990" y="175" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#e5edf7">Field service</text>
+</svg>
