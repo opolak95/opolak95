@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" role="img" aria-labelledby="title desc">
+  <ns0:title id="title">Nook — my current focus</ns0:title>
+  <ns0:desc id="desc">A self-hosted collaboration platform for messaging, voice and video, files and apps.</ns0:desc>
+  <ns0:defs><ns0:linearGradient id="surface" x2="1" y2="1"><ns0:stop stop-color="#111e2d" /><ns0:stop offset="1" stop-color="#18243d" /></ns0:linearGradient></ns0:defs>
+  <ns0:rect x="1" y="1" width="598" height="428" rx="16" fill="url(#surface)" stroke="#344563" />
+  <ns0:path d="M22 43V172" stroke="#8aa8ff" stroke-width="3" stroke-linecap="round" />
+  <ns0:text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#9db5f8">01 / CURRENT FOCUS</ns0:text>
+  <ns0:text x="46" y="113" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.5" fill="#f0f5ff">Nook</ns0:text>
+  <ns0:text x="48" y="151" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#c3cee5">Collaboration. Your infrastructure.</ns0:text>
+  <ns0:text x="48" y="194" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.5" fill="#99abc7">DESKTOP + MOBILE + WEB</ns0:text>
+  <ns0:g fill="#192d49" stroke="#3c557a" transform="translate(-618 182)"><ns0:rect x="662" y="34" width="239" height="79" rx="10" /><ns0:rect x="917" y="34" width="239" height="79" rx="10" /><ns0:rect x="662" y="130" width="239" height="79" rx="10" /><ns0:rect x="917" y="130" width="239" height="79" rx="10" /></ns0:g>
+  <ns0:g fill="none" stroke="#a7bdff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" transform="translate(-618 182)">
+    <ns0:path d="M684 59H715V81H699L690 89V81H684ZM691 67H708M691 73H704" />
+    <ns0:rect x="940" y="62" width="24" height="22" rx="3" /><ns0:path d="M964 68L975 63V83L964 78" />
+    <ns0:path d="M688 150H705L715 160V186H688ZM705 150V161H715M695 170H708M695 177H705" />
+    <ns0:rect x="941" y="154" width="12" height="12" rx="2" /><ns0:rect x="960" y="154" width="12" height="12" rx="2" /><ns0:rect x="941" y="173" width="12" height="12" rx="2" /><ns0:rect x="960" y="173" width="12" height="12" rx="2" />
+  </ns0:g>
+  <ns0:g fill="#e2eaff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" transform="translate(-618 182)"><ns0:text x="735" y="79">Messaging</ns0:text><ns0:text x="991" y="79">Voice + video</ns0:text><ns0:text x="735" y="175">Files</ns0:text><ns0:text x="991" y="175">Apps + bots</ns0:text></ns0:g>
+</ns0:svg>

@@ -23,7 +23,10 @@ Some days that means shaping a full product. Other days, it's a small integratio
 
 ### What I'm building
 
-<img src="./nook.svg" alt="Nook: self-hosted collaboration across desktop, mobile and web — messaging, voice and video, files, apps and bots" width="100%" />
+<picture>
+  <source media="(max-width: 640px)" srcset="./nook-mobile.svg" />
+  <img src="./nook.svg" alt="Nook: self-hosted collaboration across desktop, mobile and web — messaging, voice and video, files, apps and bots" width="100%" />
+</picture>
 
 My main product focus: a workspace for conversations, meetings, calls and files, running on your own infrastructure. I work on the experience across clients, the real-time backend and the permissions that connect them.
 
@@ -42,7 +45,10 @@ My main product focus: a workspace for conversations, meetings, calls and files,
 
 ### My toolkit
 
-<img src="./toolkit.svg" alt="Core technologies: TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, Electron, Docker and Linux" width="100%" />
+<picture>
+  <source media="(max-width: 640px)" srcset="./toolkit-mobile.svg" />
+  <img src="./toolkit.svg" alt="Core technologies: TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, Electron, Docker and Linux" width="100%" />
+</picture>
 
 <details>
 <summary><strong>The full stack — from interfaces to delivery</strong></summary>
