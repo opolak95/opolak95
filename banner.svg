@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ondřej Polák</title>
+  <desc id="desc">Useful software. Built end to end. Full-stack development, self-hosted products and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c27"/><stop offset="1" stop-color="#102c35"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#80ecd0"/><stop offset="1" stop-color="#62bfe9"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ed9dd" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="43" width="34" height="3" rx="1.5" fill="#80ecd0"/>
+  <text x="95" y="51" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#a8c7cf">ONDŘEJ POLÁK</text>
+  <text x="48" y="128" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#f0f7f8">Useful software.</text>
+  <text x="48" y="186" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5" fill="url(#accent)">Built end to end.</text>
+  <text x="50" y="247" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing=".4" fill="#a8c7cf">PRODUCTS / COLLABORATION / AUTOMATION</text>
+  <g fill="none" stroke="#80ecd0" stroke-width="1.5">
+    <path d="M795 99H850Q866 99 866 115V136Q866 152 882 152H946" opacity=".55"/>
+    <path d="M795 207H850Q866 207 866 191V168Q866 152 882 152" opacity=".55"/>
+    <path d="M985 152H1025Q1041 152 1041 136V99H1110" opacity=".55"/>
+    <path d="M985 152H1025Q1041 152 1041 168V207H1110" opacity=".55"/>
+    <path d="M796 99V207M1110 99V207" stroke-dasharray="3 9" opacity=".16"/>
+  </g>
+  <g fill="#14313b" stroke="#5d939d" stroke-width="1">
+    <rect x="744" y="75" width="98" height="48" rx="10"/>
+    <rect x="744" y="183" width="98" height="48" rx="10"/>
+    <rect x="1061" y="75" width="98" height="48" rx="10"/>
+    <rect x="1061" y="183" width="98" height="48" rx="10"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" text-anchor="middle" fill="#c3dce1">
+    <text x="793" y="104">IDEA</text><text x="793" y="212">SYSTEM</text>
+    <text x="1110" y="104">PRODUCT</text><text x="1110" y="212">PEOPLE</text>
+  </g>
+  <rect x="921" y="112" width="80" height="80" rx="20" fill="#163f47" stroke="#80ecd0" stroke-width="1.5"/>
+  <path d="M949 140L937 152L949 164M973 140L985 152L973 164M966 137L956 167" fill="none" stroke="#a2f3dd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="865" cy="152" r="3" fill="#80ecd0"/><circle cx="1041" cy="152" r="3" fill="#7bcde1"/>
+  <path d="M48 282H1152" stroke="#80ecd0" stroke-opacity=".18"/>
+</svg>
