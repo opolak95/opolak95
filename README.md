@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Ondřej Polák — useful software, built end to end" width="100%" />
+  <img src="./banner.svg" alt="Ondřej Polák — from idea to everyday use" width="100%" />
 </p>
 
 <p align="center">
@@ -7,19 +7,25 @@
   Building with <a href="https://github.com/CaludyLake">CloudyLake</a>
 </p>
 
+<p align="center">
+  <a href="#what-im-building">Projects</a> &nbsp; / &nbsp;
+  <a href="#my-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#how-i-work">How I work</a>
+</p>
+
 ---
 
 ### Hi, I'm Ondřej.
 
-I build software that brings conversations, information and everyday work together. My projects range from collaboration platforms and business applications to small, focused tools that take repetitive work off people's hands.
+I build collaboration platforms, business applications and automations — from the interface to the API and the infrastructure behind it. My work spans **web, desktop and mobile**, with a focus on **self-hosting, real-time systems and practical AI**.
 
-I work across the stack: interfaces, APIs, databases, desktop and mobile apps, and the infrastructure that keeps them running. I'm particularly interested in **self-hosting, real-time systems and practical uses of AI**.
+Some days that means shaping a full product. Other days, it's a small integration that saves someone a dozen manual steps.
 
 ### What I'm building
 
-#### Nook · Collaboration on your own infrastructure
+<img src="./nook.svg" alt="Nook: self-hosted collaboration across desktop, mobile and web — messaging, voice and video, files, apps and bots" width="100%" />
 
-A collaboration platform bringing together channels, direct messages, voice and video, meetings, files and an apps/bots ecosystem. Built across desktop, mobile and web, with an emphasis on permissions, data ownership and a cohesive user experience.
+My main product focus: a workspace for conversations, meetings, calls and files, running on your own infrastructure. I work on the experience across clients, the real-time backend and the permissions that connect them.
 
 <sub>TypeScript · React · Fastify · PostgreSQL · Redis · Electron · React Native · LiveKit</sub>
 
@@ -32,9 +38,14 @@ A collaboration platform bringing together channels, direct messages, voice and 
 
 **For the gaming community:** [Albion Party Builder](https://github.com/opolak95/APB) and Discord tooling for Albion Online.
 
-<sub>Much of my product and client work lives in private repositories. This overview gives a little context for the work behind the contribution graph.</sub>
+<sub>Most product and client code is private; the projects above describe what I build beyond the public repositories.</sub>
 
 ### My toolkit
+
+<img src="./toolkit.svg" alt="Core technologies: TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, Electron, Docker and Linux" width="100%" />
+
+<details>
+<summary><strong>The full stack — from interfaces to delivery</strong></summary>
 
 | Area | Technologies I work with |
 | :--- | :--- |
@@ -44,7 +55,11 @@ A collaboration platform bringing together channels, direct messages, voice and 
 | **Delivery & quality** | Docker, Linux, GitHub Actions, Vitest, Playwright |
 | **AI & integrations** | Claude Code, Codex, LLM workflows, bots, APIs and webhooks |
 
+</details>
+
 ### How I work
+
+**Understand the workflow → Design the system → Build → Review & test → Ship**
 
 - **Build the whole thing.** Connect the product idea to the interface, backend and deployment.
 - **Make ownership practical.** Give teams control over their data and infrastructure.

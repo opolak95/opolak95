@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="248" viewBox="0 0 1200 248" role="img" aria-labelledby="title desc">
+  <title id="title">Nook — my current focus</title>
+  <desc id="desc">A self-hosted collaboration platform for messaging, voice and video, files and apps.</desc>
+  <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111e2d"/><stop offset="1" stop-color="#18243d"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="246" rx="16" fill="url(#surface)" stroke="#344563"/>
+  <path d="M22 47V201" stroke="#8aa8ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#9db5f8">01 / CURRENT FOCUS</text>
+  <text x="46" y="113" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.5" fill="#f0f5ff">Nook</text>
+  <text x="48" y="151" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#c3cee5">Collaboration on your own infrastructure.</text>
+  <text x="48" y="202" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5" fill="#99abc7">DESKTOP + MOBILE + WEB</text>
+  <g fill="#192d49" stroke="#3c557a"><rect x="662" y="34" width="239" height="79" rx="10"/><rect x="917" y="34" width="239" height="79" rx="10"/><rect x="662" y="130" width="239" height="79" rx="10"/><rect x="917" y="130" width="239" height="79" rx="10"/></g>
+  <g fill="none" stroke="#a7bdff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M684 59H715V81H699L690 89V81H684ZM691 67H708M691 73H704"/>
+    <rect x="940" y="62" width="24" height="22" rx="3"/><path d="M964 68L975 63V83L964 78"/>
+    <path d="M688 150H705L715 160V186H688ZM705 150V161H715M695 170H708M695 177H705"/>
+    <rect x="941" y="154" width="12" height="12" rx="2"/><rect x="960" y="154" width="12" height="12" rx="2"/><rect x="941" y="173" width="12" height="12" rx="2"/><rect x="960" y="173" width="12" height="12" rx="2"/>
+  </g>
+  <g fill="#e2eaff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600"><text x="735" y="79">Messaging</text><text x="991" y="79">Voice + video</text><text x="735" y="175">Files</text><text x="991" y="175">Apps + bots</text></g>
+</svg>
